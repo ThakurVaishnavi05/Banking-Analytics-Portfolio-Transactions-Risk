@@ -255,4 +255,4 @@ The project provides a 360-degree view of banking performance and risk, supporti
 Vaishnavi Thakur
 
 B.Com Business Analytics
-Avinash College of Commerce, Hyderabad
+
